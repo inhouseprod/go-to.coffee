@@ -1,11 +1,11 @@
 # Site settings
-title:
-email:
+title: Go-To Coffee | Amazing coffee for your restaurant or office
+email: info@go-to.coffee
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: go-to-coffee
 github_username:
 
 # Build settings
